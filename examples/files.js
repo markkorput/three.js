@@ -1,4 +1,7 @@
 var files = {
+	"my": [
+		"_layers"
+	],
 	"webgl": [
 		"webgl_animation_cloth",
 		"webgl_animation_keyframes_json",
